@@ -1,4 +1,6 @@
-## Hi there 👋
+# Archive notice
+
+This profile exists to archive the old account of [@davidmvos](https://github.com/davidmvos) and to reserve the name to prevent security issues.
 
 <!--
 **FuchsCrafter/FuchsCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
